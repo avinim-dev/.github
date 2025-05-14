@@ -21,7 +21,7 @@ Nous sommes un acteur innovant de l'immobilier durable, spécialisé dans la con
 
 ## 📁 Nos projets sur GitHub
 
-Ce GitHub est utilisé pour partager nos outils internes, nos prototypes digitaux, et certains projets open source liés à la gestion énergétique et à la digitalisation du bâtiment.
+Ce GitHub est utilisé pour partager nos outils internes, nos prototypes digitaux, et certains projets liés à la gestion énergétique et à la digitalisation du bâtiment.
 
 ## 📬 Nous contacter
 
